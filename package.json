@@ -45,7 +45,7 @@
     "jsdoc": "^3.6.3",
     "lodash.camelcase": "^4.3.0",
     "madge": "^3.8.0",
-    "mocha": "5.2.0",
+    "mocha": "10.2.0",
     "mocha-sinon": "^2.1.0",
     "mongodb-mock-server": "^2.0.1",
     "nyc": "^15.0.0",
